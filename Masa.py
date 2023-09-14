@@ -2,8 +2,8 @@ def kilogramos_gramos(kilos):
     formula = kilos * 1000
     return f"El resultado es {formula}"
 
-def toneladas_gramos(toneladas):
-    formula = 0
+def toneladas_gramos(t):
+    formula = t * 1000000
     return f"El resultado es {formula}"
 
 
