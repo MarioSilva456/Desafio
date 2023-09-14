@@ -1,6 +1,6 @@
 def minutos_segundos(minutos):
-    formula =minutos * 60
-    return f"El resultado es {formula}"
+    formulas =minutos * 60
+    return f"El resultado es {formulas}"
 
 def horas_minutos(horas):
     formula =  horas * 60
